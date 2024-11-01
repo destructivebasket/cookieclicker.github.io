@@ -1,0 +1,27 @@
+/* Place your CSS styles in this file */
+
+* {
+    background-color: #ffdbe1;
+  }
+  
+  button {
+    border-color: transparent;
+    margin-left: 40%;
+  }
+  
+  /*     . for class      */
+  .words {
+    color: #ff70ff;
+    font-family: "Arial";
+    text-align: center;
+  }
+  
+  /*      # for id        */
+  #clickCounter {
+    font-size: 48px;
+  }
+  
+  img {
+    width: 280px;
+    height: 300px;
+  }
